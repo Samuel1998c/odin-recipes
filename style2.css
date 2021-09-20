@@ -1,0 +1,17 @@
+/*Styles.css*/
+.first{
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bigger{
+    font-size: 24px;
+}
+#second{
+    color: blue;
+    font-size: 36px;
+}
+#third{
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
